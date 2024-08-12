@@ -6,7 +6,7 @@
 - 둘째
 - 셋째
 
-## Code
+
 ### 코드구성
 
 ''' javascript
@@ -21,6 +21,5 @@ function(){
 
 
 
-## 프로젝트 정보
 ### Project
 [네이버](https://wwww.naver.com)
