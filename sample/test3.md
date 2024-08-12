@@ -1,7 +1,7 @@
 # 프로젝트 구성정보
 ## Project Issue
 ### UserCheck
-**This is Name ** checking pointer
+**This is Name** checking pointer
 - 첫째 
 - 둘째
 - 셋째
