@@ -9,15 +9,14 @@
 
 ### 코드구성
 
-''' javascript
+``` javascript
 var a = 100;
 
 function(){
 
   return a;
 }
-
-'''
+```
 
 
 
