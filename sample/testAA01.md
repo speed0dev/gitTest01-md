@@ -23,4 +23,4 @@
 
 
 ### 사이트
-[](https://www.naver.com)
+[naver](https://www.naver.com)
