@@ -34,3 +34,12 @@
 | 왼쪽 내용 | 오른쪽 내용 |
 | --------- | ----------- |
 | 여기에 왼쪽에 표시할 내용을 작성합니다. | 여기에 오른쪽에 표시할 내용을 작성합니다. |
+
+<div>
+<table style="border: none; width: 100%;">
+  <tr>
+    <td style="border: none; width: 50%;">왼쪽 내용</td>
+    <td style="border: none; width: 50%;">오른쪽 내용</td>
+  </tr>
+</table>
+</div>
