@@ -8,4 +8,23 @@
 - 2
 - 3
 - 4
-  
+
+
+### 단락나누기
+
+<div style="display: flex;">
+  <div style="flex: 1; padding-right: 10px;">
+    ### 왼쪽 내용
+    여기에 왼쪽에 표시할 내용을 작성합니다.
+    - 작성자
+    - 내용
+    
+  </div>
+  <div style="flex: 1; padding-left: 10px;">
+    ### 오른쪽 내용
+    여기에 오른쪽에 표시할 내용을 작성합니다.
+    - 작성자 
+    - 내용
+    
+  </div>
+</div>
