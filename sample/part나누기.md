@@ -56,3 +56,15 @@
   </tr>
 </table>
 </div>
+
+
+### 코드 비교 및 분류
+
+| 코드 1 | 코드 2 |
+| ------ | ------ |
+| ```js | ```python |
+| function hello() { | def hello(): |
+|   console.log("Hello, World!"); |     print("Hello, World!") |
+| } | ``` |
+| ``` |
+
