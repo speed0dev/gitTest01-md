@@ -62,9 +62,9 @@
 
 | 코드 1 | 코드 2 |
 | ------ | ------ |
-| ```js | ```python |
-| function hello() { | def hello(): |
+| ```js                           | ```python                  |
+| function hello() {              | def hello():               |
 |   console.log("Hello, World!"); |     print("Hello, World!") |
-| } | ``` |
-| ``` |
+| }                               | ```                        |
+| ```                             |                            |
 
