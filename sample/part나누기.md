@@ -68,3 +68,31 @@
 | }                               | ```                        |
 | ```                             |                            |
 
+
+
+
+
+<table>
+  <tr>
+    <th>코드 1</th>
+    <th>코드 2</th>
+  </tr>
+  <tr>
+    <td>
+      <pre><code>
+// JavaScript 예시
+function hello() {
+  console.log("Hello, World!");
+}
+      </code></pre>
+    </td>
+    <td>
+      <pre><code>
+# Python 예시
+def hello():
+    print("Hello, World!")
+      </code></pre>
+    </td>
+  </tr>
+</table>
+
